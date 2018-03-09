@@ -1,1 +1,2 @@
+This is another test with settings down to a bear minimum.
 This is a test to see if it triggers an event message to SQS queue.
